@@ -26,7 +26,7 @@ Greeklish Plugin | ElasticSearch
 0.6              | 0.19.2
 
 Expansions
-----------
+------------
 
 There are more than one combinations of latin characters that can substitute
 each character of the greek alphabet. So, a greek token is expanded to as many
